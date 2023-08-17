@@ -21,4 +21,4 @@ Contributions are welcome! If you find any issues or have ideas for improvements
 The code in this repository is licensed under the MIT License.
 
 ## Preview
-<img width="900" alt="Screenshot 2023-08-17 160153" src="https://github.com/Aarzoo75/Rocker-Switch/assets/59678435/39a49d86-7e66-474c-9f57-09982e0441fc">
+<img width="900" style="border-radius: 10px;" alt="Screenshot 2023-08-17 160153" src="https://github.com/Aarzoo75/Rocker-Switch/assets/59678435/39a49d86-7e66-474c-9f57-09982e0441fc">
